@@ -1,0 +1,426 @@
+{"meta": { "theme": "elegant" },
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Virgilio Olivardía",
+    "label": "Strategic planning, innovation, project management, information security, business continuity and software development.",
+    "image": "",
+    "email": "virgilio.olivardia@gmail.com",
+    "phone": "(+507)66725998",
+    "url": "",
+    "summary": "I have experience implementing IT projects and business projects performing roles of strategic planning, innovation, project management, information security, business continuity and developing applications. I have done successful project implementations in government agencies and private companies.  I have managed direct reports and I supported them in their professional development.",
+    "location": {
+      "countryCode": "ES",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "virgilioolivardia",
+        "url": "https://www.linkedin.com/in/virgilioolivardia/"
+      },
+      {
+        "network": "Twitter",
+        "username": "gilio29",
+        "url": "https://twitter.com/gilio29"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Save the Children International",
+      "position": "Especialista regional de tecnología para el desarrollo",
+      "startDate": "2022-03-31",
+      "endDate": "",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/save-the-children-international/",
+      "location": "Panama"
+    },
+    {
+      "name": "Axxis Systems",
+      "position": "PMO director for SIS 11",
+      "startDate": "2020-10-31",
+      "endDate": "2022-02-28",
+      "highlights": [],
+      "summary": "Implementación de proyecto en aseguradora de Suriname.",
+      "url": "https://www.linkedin.com/company/axxis-systems/",
+      "location": "Panama"
+    },
+    {
+      "name": "Banco Delta, S.A.",
+      "position": "Project Manager",
+      "startDate": "2018-12-31",
+      "endDate": "2020-01-31",
+      "highlights": [],
+      "summary": "•\tI coordinated the strategic planning process of the bank for the next 3 years.\n•\tI coordinated the evaluation of a loan portfolio for possible acquisition.\n•\tI implemented MPOS, a payment method for bank’s customers.\n•\tI coordinated the implementation of specific changes in the main systems of the bank.  It included gathering requirements, coordinating tests, implementation logistics and support after implementation.",
+      "url": "https://www.linkedin.com/company/bancodelta/",
+      "location": "Panama"
+    },
+    {
+      "name": "Centauri Technologies Corporation",
+      "position": "Information System's Manager",
+      "startDate": "2009-09-30",
+      "endDate": "2018-11-30",
+      "highlights": [],
+      "summary": "Senior consultant and information system’s manager\nThe position included selling projects, negotiating contracts, implementing projects, supporting the administrative closure of projects, managing the relationship with customers at the first level, supporting direct reports on their professional development and representing the company on external events.  The projects I managed included the areas of information security, systems implementation, business continuity, strategic planning and innovation.\nStrategic planning projects:\n•\tI was the project manager and technical leader for the strategic planning process of the City of Knowledge of Panama for the next 10 years.  I participated actively writing this strategic plan.\nInformation security projects:\n•\tI was the project \n•\tmanager for security protocol administration for the continuous operation platform (several years) - Electoral Tribunal of Panama.\nBusiness continuity projects:\n•\tI was the project manager for updating the business continuity plan - Telered, S.A.\nSystem implementation projects:\n•\tI was the project manager for the gathering of requirements for new application for the Civil Registry, design of the structure of the proposed database, support in the preparation of the specifications and advice on the administration of the implementation project – Electoral Tribunal of Panama.",
+      "url": "https://www.linkedin.com/company/centauri-technologies-corporation/",
+      "location": "Panama"
+    },
+    {
+      "name": "Senacyt",
+      "position": "Project Manager",
+      "startDate": "2008-01-31",
+      "endDate": "2009-06-30",
+      "highlights": [],
+      "summary": "I lead the implementation of projects using semantic technologies for integration of national strategic systems from govermental agencies of Panama.",
+      "url": "https://www.linkedin.com/company/senacyt/",
+      "location": "Panama"
+    },
+    {
+      "name": "Cable & Wireless Panama",
+      "position": "Broadband Product Specialist",
+      "startDate": "2006-12-31",
+      "endDate": "2007-12-31",
+      "highlights": [],
+      "summary": "•\tI was responsible for the design, evaluation, preparation, financial support and communication of promotions for the Freedom ADSL brand.\n•\tI participated in the coordination of marketing activities related to the Freedom ADSL brand.\n•\tI was responsible for elaborating business cases for projects.\n•\tI worked on the analysis of market trends and monitoring of competition.",
+      "url": "https://www.linkedin.com/company/masmovil-panama/",
+      "location": "Panama"
+    },
+    {
+      "name": "Cable & Wireless Panama",
+      "position": "Project Manager",
+      "startDate": "2004-12-31",
+      "endDate": "2006-12-31",
+      "highlights": [],
+      "summary": "•\tI leaded the project for conceptualization, management and implementation of the activation system for Postpaid Mobile services.\n•\tI leaded the project for conceptualization, management and implementation of the activation system for Prepaid Mobile services.\n•\tI leaded the project for conceptualization, management and implementation of the web service support system for client for activation of fixed line telephone services.\n•\tI leaded the project for conceptualization of improvements to the fixed telephony activation system.",
+      "url": "https://www.linkedin.com/company/masmovil-panama/",
+      "location": "Panama"
+    },
+    {
+      "name": "Cable & Wireless Panama",
+      "position": "System's Analyst",
+      "startDate": "2001-12-31",
+      "endDate": "2004-12-31",
+      "highlights": [],
+      "summary": "•\tI worked as SQL Server database administrator.\n•\tI was a developer for the fixed line provisioning system in VS.Net and Genexus.\n•\tI was Implementer for the business intelligence project with Cognos. This project included designing and implementing the business intelligence system from scratch.  We carried out the processes of extraction, transformation and loading, the matrix reports through cubes and reports through BI tools that included Cognos and Business Objects (currently SAP BI).\n•\tI was the technical leader for the implementation of Online Payment system.\n•\tI developed web reports through the Business Objects tool.",
+      "url": "https://www.linkedin.com/company/masmovil-panama/",
+      "location": "Panama"
+    },
+    {
+      "name": "Wizco",
+      "position": "Developer",
+      "startDate": "2000-12-31",
+      "endDate": "2001-12-31",
+      "highlights": [],
+      "summary": "I participated as a developer in the implementation of the Acsel Insurance system ASSA (insurance company of Panama).  We used Oracle Database and Developer 2000 Development Tools.",
+      "url": "",
+      "location": "Panama"
+    },
+    {
+      "name": "Tecnópolis",
+      "position": "Técnico",
+      "startDate": "1997-12-31",
+      "endDate": "1999-12-31",
+      "highlights": [],
+      "summary": "•\tAsistente de Cursos de Computación personal.\n•\tTécnico de Mantenimiento y reparación de Computadoras",
+      "url": "",
+      "location": "Panama"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CAPATEC Cámara Panameña de Tecnologías de Información, Innovación y Telecomunicaciones",
+      "position": "Suplente de Director, Junta directiva",
+      "startDate": "2015-03-31",
+      "endDate": "",
+      "summary": null,
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "organization": "Project Management Institute",
+      "position": "Expositor en congreso PMI de Panama en el año 2016",
+      "startDate": "2016-09-30",
+      "endDate": "",
+      "summary": "Presenté el tema: Crisis y la continuidad del proyecto",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "organization": "Project Management Institute",
+      "position": " PMI Mega Exam Development Workshop contributor",
+      "startDate": "2015-04-30",
+      "endDate": "",
+      "summary": "Revisión global del examen para Project Management Proefssional del PMI",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/projectmanagementinstitute/"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, Davis",
+      "area": "Data Processing",
+      "studyType": "Course",
+      "startDate": "2020-12-31",
+      "endDate": "2020-12-31",
+      "score": "SQL for data Science",
+      "courses": []
+    },
+    {
+      "institution": "University of California, Davis",
+      "area": "Computer Science",
+      "studyType": "Data Wrangling, Analysis and AB Testing with SQL",
+      "startDate": "2020-12-31",
+      "endDate": "2020-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Latina de Panamá",
+      "area": "Project Management",
+      "studyType": "Diplomado en administración de proyectos",
+      "startDate": "2012-12-31",
+      "endDate": "2012-12-31",
+      "score": "Diplomado",
+      "courses": []
+    },
+    {
+      "institution": "",
+      "area": "Marketing",
+      "studyType": "Master in Business Administration",
+      "startDate": "2006-12-31",
+      "endDate": "2007-12-31",
+      "score": "MBA",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Latinoamericana de Ciencia y Tecnología",
+      "area": "Finance",
+      "studyType": "Master in Business Administration",
+      "startDate": "2002-12-31",
+      "endDate": "2002-12-31",
+      "score": "MBA",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Latinoamericana de Ciencia y Tecnología",
+      "area": "Business administration",
+      "studyType": "Postgraduate in strategic management",
+      "startDate": "2001-12-31",
+      "endDate": "2002-12-31",
+      "score": "Postgraduate",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Latinoamericana de Ciencia y Tecnología",
+      "area": "Information Systems",
+      "studyType": "Computer Engineering",
+      "startDate": "1996-12-31",
+      "endDate": "2000-12-31",
+      "score": "bachelor's degree",
+      "courses": []
+    },
+    {
+      "institution": "Instituto Pedagógico",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Premio Presidente",
+      "date": "2007-12-31",
+      "awarder": "Cable & Wireles Panamá",
+      "summary": "Reconocimiento del Desempeño del colaborador"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Fundamentos de la gestión del tiempo",
+      "issuer": "LinkedIn",
+      "startDate": "2020-03-31",
+      "url": "http://www.linkedin.com/learning/fundamentos-de-la-gestion-del-tiempo?trk=flagship-lil_details_certification"
+    },
+    {
+      "name": "Fundamentos del teletrabajo",
+      "issuer": "LinkedIn",
+      "startDate": "2020-03-31",
+      "url": "http://www.linkedin.com/learning/fundamentos-del-teletrabajo?trk=flagship-lil_details_certification"
+    },
+    {
+      "name": "PMI-ACP Exam prep Seminar (21 Professional development units)",
+      "issuer": "Instructing.com",
+      "startDate": "2020-03-31"
+    },
+    {
+      "name": "PMI Agile Certified Practitioner (PMI-ACP)",
+      "issuer": "Project Management Institute",
+      "endDate": "2023-09-30",
+      "startDate": "2020-09-30"
+    },
+    {
+      "name": "Scrum Foundation Professional Certificate",
+      "issuer": "CertiProf",
+      "endDate": "2022-09-30",
+      "startDate": "2020-09-30",
+      "url": "https://www.youracclaim.com/badges/2838313e-dbd1-4524-bbac-43fccbe45fd8?source=linked_in_profile"
+    },
+    {
+      "name": "Project Management Professional (PMP)®",
+      "issuer": "Project Management Institute",
+      "endDate": "2021-03-31",
+      "startDate": "2013-03-31",
+      "url": "https://www.youracclaim.com/badges/e0715dbe-76e3-46c9-8849-819e4d866f49"
+    },
+    {
+      "name": "Dependable",
+      "issuer": "ClearFit",
+      "url": "https://www.youracclaim.com/badges/fc71c886-0760-4e92-b696-bfb77216b690"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Team Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Intelligence",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Requirements Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Telecommunications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Telecommutación",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestión del tiempo",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cable & Wireless Panama",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Centauri Technologies Corporation",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "es",
+      "fluency": "Native Speaker"
+    },
+    {
+      "fluency": "Full Professional",
+      "language": "English"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "French"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Spanish"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Julio Escobar",
+      "reference": "He trabajado con Virgilio por más de 10 años, primero en Senacyt, en un proyecto de tecnología de punta, y luego en Centauri Technologies.   Es un profesional de primera, altamente capaz, dedicado, responsable, ético, siempre queriendo avanzar.  Tiene múltiples habilidades, desde comprensión y creatividad tecnológica, hasta manejo de proyectos y aplomo ejecutivo.  Acepta retos fuertes y es tenaz.   Sabe adaptarse.  Virgilio y yo seguimos en contacto y con gusto puedo recomendarlo en más detalle.   "
+    },
+    {
+      "name": "Eli Faskha",
+      "reference": "Virgilio was a consultant with CAPATEC and the Panama Digital Hub strategy. He was an integral part of the team, and had many insights on how to better the strategy. He had great time management and presentation skills, and helped with high-level relationships in the public and private sector. He was able to keep the project schedule on time, and was very professional in all of his engagements with us. Looking forward to working with him again in the future."
+    },
+    {
+      "name": "Alice Puga",
+      "reference": "Virgilio es un gran profesional, responsable, organizado y comprometido, con amplia experiencia en desarrollo de sistemas, gestión de proyectos e innovación."
+    },
+    {
+      "name": "Reinaldo N. Mayol",
+      "reference": "Conocí a Virgilio mientras ambos trabajabamos en la misma empresa. Siempre se caracterizó por ser una persona extremadamente organizada, activa, confiable y con ideas emprendedoras. Es un placer para mi escribir esta pequeña recomendación."
+    },
+    {
+      "name": "Maria Esperanza Vargas",
+      "reference": "Trabajar con Virgilio siempre nos dio la tranquilidad de tener como asesor a un profesional con pleno dominio de su tema. Siempre demostró un alto nivel de profesionalismo, disciplina y compromiso."
+    },
+    {
+      "name": "Marcel Villacís Ampuero",
+      "reference": "Virgilio es un profesional de alto nivel, muy comprometido con sus responsabilidades y enfocado en generar entregables de valor para la organización. Virgilio es una persona con valores, inteligente y buen conversador."
+    },
+    {
+      "name": "Oren Yosifon",
+      "reference": "I'd recommend Virgilio both as a professional and as a person. Virgilio was a Project Manager for Senacyt at the time we worked together.\r\n\r\nVirgilio demonstrated invaluable capacity to grasp complex technical issues as well as lead the project in the most proffessional way possible.\r\n\r\nHis commitment to the customer he represented, devoting long hours to planning, design and testing created an environment of collaboration facilitated by constant communication which helped our teams hand the best deliverables possible, on time.\r\n\r\nVirgilio is a knowledgeable and interesting person, with great technical, presentation and management skills,as well as a special gift for playing the Guitar :-)"
+    }
+  ],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
